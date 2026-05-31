@@ -6,9 +6,6 @@
 
 ### **GoodNight** — Intelligent Sleep + Wake Scheduler for Linux
 
-![GoodNight Banner](https://via.placeholder.com/800x200/1e3a8a/60a5fa?text=GoodNight+-+Sleep+with+Purpose)  
-*(Replace with a nice generated banner later)*
-
 **GoodNight** lets you put your Linux machine into **hybrid-sleep** (suspend-to-RAM + hibernate) while setting a reliable hardware wake-up alarm via the RTC. Perfect for:
 
 - Waking up your PC in the morning like a real alarm clock
