@@ -1,9 +1,3 @@
-**Project Name Suggestion: ✨ GoodNight**
-
-**Tagline:** *Fall asleep. Wake up exactly when you want. Powered by Linux RTC.*
-
----
-
 ### **GoodNight** — Intelligent Sleep + Wake Scheduler for Linux
 
 **GoodNight** lets you put your Linux machine into **hybrid-sleep** (suspend-to-RAM + hibernate) while setting a reliable hardware wake-up alarm via the RTC. Perfect for:
